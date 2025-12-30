@@ -22,7 +22,7 @@ A high-performance RAG (Retrieval-Augmented Generation) Agent designed to transf
 ## Deployment
 
 ### Live Demo
-Access the live application here: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_svg.svg)](https://nim-ai-insight-agent-5q44qxk7pbphxkesjzsktk.streamlit.app/)
+Access the live application here: [![Streamlit App](https://nim-ai-insight-agent-5q44qxk7pbphxkesjzsktk.streamlit.app/)
 
 ### Local Development (Docker)
 ```bash
