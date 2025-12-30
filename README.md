@@ -22,7 +22,7 @@ A high-performance RAG (Retrieval-Augmented Generation) Agent designed to transf
 ## Deployment
 
 ### Live Demo
-Access the live application here: [NIM AI Insight Agent Live](https://your-app-name.streamlit.app)
+Access the live application here: [NIM AI Insight Agent Live][(https://nim-ai-insight-agent-5q44qxk7pbphxkesjzsktk.streamlit.app/)]
 
 ### Local Development (Docker)
 ```bash
